@@ -82,6 +82,8 @@ namespace HW1b_Grade
 
             Console.WriteLine($"{FirstName} {LastName} ({StudentID}), your final grade is {finalgrade}%");
 
+            Console.ReadKey();
+
             
 
 
